@@ -39,6 +39,8 @@ This is a long form description of the mod. You can write whatever you want here
 Have some lorem ipsum.
 
 I like to code with my friends :D
+
+maybe i like to code with my friends >:)
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
