@@ -41,6 +41,8 @@ Have some lorem ipsum.
 I like to code with my friends :D
 
 maybe i like to code with my friends >:)
+
+kyle's commit
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
